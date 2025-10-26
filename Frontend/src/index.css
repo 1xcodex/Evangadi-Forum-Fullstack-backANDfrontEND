@@ -1,0 +1,9 @@
+body {
+    background-image: url('../src/assets/bg.jpg') !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+  background-attachment: fixed !important; 
+  min-height: 100vh !important;
+  margin: 0 !important;  /* ensure full viewport */
+}
