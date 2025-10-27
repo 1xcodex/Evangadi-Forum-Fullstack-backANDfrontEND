@@ -1,4 +1,4 @@
-# 🧩 Evangadi Forum Frontend
+# 🧩 Evangadi Forum Frontend and Backend
 
 This is the **frontend** of the Evangadi Forum project — a web application that allows users to register, log in, ask questions, and post answers.  
 Built with **React (Vite)** for a fast, modern, and responsive interface.
